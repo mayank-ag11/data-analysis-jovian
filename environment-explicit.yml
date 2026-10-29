@@ -1,0 +1,9 @@
+name: data-analysis-jovian
+channels:
+  - defaults
+dependencies:
+  - python=3.13
+  - jupyterlab
+  - pandas
+  - seaborn
+prefix: /Users/mayank/miniconda3/envs/data-analysis-jovian
